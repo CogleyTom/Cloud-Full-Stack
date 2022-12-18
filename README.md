@@ -27,3 +27,7 @@
   * **What roles do elasticity and pay-for-service play in decision making for planned future growth?**
   
   Elasticity allows you to acquire resources as you need them and release resources when you no longer need them.  Therefore, you only pay what you use.  This is very beneficial when expanding.  This will help you or the company save money by only growing the resources that need growth.
+
+**Final Powerpoint Project**
+
+https://youtu.be/cGyzdAyl9yY
